@@ -86,5 +86,7 @@ class MainActivity : AppCompatActivity() {
             }
 
         }
+
+        // First Kotlin Project 10-13-2023 :)
     }
 }
